@@ -43,10 +43,10 @@ The project is inspired by how early game AI works: an agent with no knowledge o
 ## Simulation Snapshots
 
 ### Arena Overview
-
-### Inner Obstacle Layout
+<img width="548" height="357" alt="image" src="https://github.com/user-attachments/assets/542d1287-4063-449b-90a8-e278c33ff9a4" />
 
 ### Robot Mid-Maneuver
+<img width="633" height="406" alt="image" src="https://github.com/user-attachments/assets/b7cfc9fe-6f9d-4367-83d9-a85ca3e32acc" />
 
 ## Setup
 
